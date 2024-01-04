@@ -1,11 +1,13 @@
-### Method one
+**Method 0x01**
+
 we can run the code in Developer Tools:
 ~~~
 await contract.Fal1out();
 ~~~
 
 
-### Method two
+**Method 0x02**
+
 truffle script:
 ~~~
 module.exports = async function(callback) {
