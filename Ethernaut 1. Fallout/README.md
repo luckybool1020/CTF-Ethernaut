@@ -1,3 +1,4 @@
+### The Exploit
 **Method 0x01**
 
 we can run the code in Developer Tools:
