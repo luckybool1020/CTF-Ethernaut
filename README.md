@@ -14,3 +14,5 @@
 [Ethernaut 8. Vault](./Ethernaut%208.Vault/README.md)
 
 [Ethernaut 9. King](./Ethernaut%209.King/README.md)
+
+[Ethernaut 10. Re-entrancy](./Ethernaut%2010.Re-entrancy/README.md)
