@@ -18,3 +18,5 @@
 [Ethernaut 10. Re-entrancy](./Ethernaut%2010.Re-entrancy/README.md)
 
 [Ethernaut 11.Elevator](./Ethernaut%2011.Elevator/README.md)
+
+[Ethernaut 12.Privacy](./Ethernaut%2012.Privacy/README.md)
