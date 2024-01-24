@@ -5,7 +5,7 @@
 
 [Ethernaut 4. Telephone](./Ethernaut%204.%20Telephone/README.md)
 
-[Ethernaut 5. Telephone](./Ethernaut%205.Token/README.md)
+[Ethernaut 5. Token](./Ethernaut%205.Token/README.md)
 
 [Ethernaut 6. Delegation](./Ethernaut%206.Delegation/README.md)
 
@@ -22,3 +22,5 @@
 [Ethernaut 12.Privacy](./Ethernaut%2012.Privacy/README.md)
 
 [Ethernaut 13.Gatekeeper One](./Ethernaut%2013.Gatekeeper%20One/README.md)
+
+[Ethernaut 14.Gatekeeper Two](./Ethernaut%2014.Gatekeeper%20Two/README.md)
