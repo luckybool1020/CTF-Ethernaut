@@ -28,3 +28,5 @@
 [Ethernaut 15.Naught Coin](./Ethernaut%2015.Naught%20Coin/README.md)
 
 [Ethernaut 16.Preservation](./Ethernaut%2016.Preservation/README.md)
+
+[Ethernaut 17.Recovery](./Ethernaut%2017.Recovery/README.md)
