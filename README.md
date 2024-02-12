@@ -30,3 +30,5 @@
 [Ethernaut 16.Preservation](./Ethernaut%2016.Preservation/README.md)
 
 [Ethernaut 17.Recovery](./Ethernaut%2017.Recovery/README.md)
+
+[Ethernaut 18.MagicNumber](./Ethernaut%2018.MagicNumber/README.md)
