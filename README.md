@@ -36,3 +36,5 @@
 [Ethernaut 19.Alien Codex](./Ethernaut%2019.Alien%20Codex/README.md)
 
 [Ethernaut 20.Denial](./Ethernaut%2020.Denial/README.md)
+
+[Ethernaut 21.Shop](./Ethernaut%2021.Shop/README.md)
