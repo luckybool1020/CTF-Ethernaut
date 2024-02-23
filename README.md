@@ -38,3 +38,5 @@
 [Ethernaut 20.Denial](./Ethernaut%2020.Denial/README.md)
 
 [Ethernaut 21.Shop](./Ethernaut%2021.Shop/README.md)
+
+[Ethernaut 22.Dex](./Ethernaut%2022.Dex/README.md)
